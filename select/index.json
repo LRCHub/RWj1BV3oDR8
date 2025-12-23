@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ぽっかんカラー",
+  "base_artist": "きくお",
+  "createdAt": "2025-12-23T15:14:09.231368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぽっかんカラー",
+      "artist": "きくお",
+      "has_synced": false,
+      "path": "select/01_ぽっかんカラー_きくお.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぽっかんカラー",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/02_ぽっかんカラー_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぽっかんカラー",
+      "artist": "きくお feat. 兎眠りおん",
+      "has_synced": true,
+      "path": "select/03_ぽっかんカラー_きくお_feat._兎眠りおん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ぽっかんカラー",
+      "artist": "Kikuo feat. Tone, Rion",
+      "has_synced": true,
+      "path": "select/04_ぽっかんカラー_Kikuo_feat._Tone,_Rion.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ぽっかんカラー - Pokkan color (feat. 兎眠りおん)",
+      "artist": "KIKUO",
+      "has_synced": false,
+      "path": "select/05_ぽっかんカラー_-_Pokkan_color_(feat._兎眠りおん)_KIKUO.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ぽっかんカラー",
+      "artist": "Kikuo Sound Works",
+      "has_synced": true,
+      "path": "select/06_ぽっかんカラー_Kikuo_Sound_Works.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ぽっかんカラー (feat. 兎眠りおん)",
+      "artist": "Kikuo - Topic",
+      "has_synced": false,
+      "path": "select/07_ぽっかんカラー_(feat._兎眠りおん)_Kikuo_-_Topic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぽっかんカラー",
+      "artist": "きくお",
+      "has_synced": false,
+      "path": "select/pl_01_ぽっかんカラー_きくお.txt"
+    }
+  ]
+}
